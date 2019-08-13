@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Muralidhar
+Build-Jdk: 10.0.2
+Implementation-Title: PhotoAppUsers
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.murali.photoApp.api.users
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PhotoAppUsers
+Main-Class: com.murali.photoApp.api.users.PhotoAppUsersApplication
+Created-By: Maven Integration for Eclipse
+
