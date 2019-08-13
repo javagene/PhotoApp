@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Muralidhar
+Build-Jdk: 10.0.2
+Implementation-Title: PhotoAppApiZUULAPIGateway
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.murali.photoApp.api.gateway
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PhotoAppApiZUULAPIGateway
+Created-By: Maven Integration for Eclipse
+
